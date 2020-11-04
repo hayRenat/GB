@@ -22,8 +22,6 @@ public class main {
 //        System.out.println(negative(-4));
 //        hello("Петя");
 //        bissextile(104);
-
-
     }
     public static float formula (float a, float b, float c, float d){
         return (a * (b + (c / d)));
